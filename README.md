@@ -1,2 +1,2 @@
 # FaceInsight
-This project is a Python-based Face Recognition Attendance System that uses computer vision and face recognition techniques to automate attendance tracking for students or employees. It integrates with Firebase for data storage and retrieval, making it suitable for both personal and educational or corporate use.
+This project is a Python-based Face Recognition System that uses computer vision and face recognition techniques to revele the face informaton as per privious set on firebace for students or employees and easy to identify correct iformation even sitting individual in large group/class/community. It integrates with Firebase for data storage and retrieval, making it suitable for both personal and educational or corporate use.
